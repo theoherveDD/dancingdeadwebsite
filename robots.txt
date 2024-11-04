@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /dancingdeadwordpress/wordpress/wp-admin/
+Allow: /dancingdeadwordpress/wordpress/wp-admin/admin-ajax.php
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+
+# ---------------------------
+# END YOAST BLOCK
